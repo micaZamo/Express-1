@@ -1,1 +1,5 @@
-# Ej-express-1
+# EXPRESS
+
+*Construccion de un servidor web con express que responde una frase **HOLA MUNDO** cuando recibe un request con el metodo get a la ruta raiz*
+
+
